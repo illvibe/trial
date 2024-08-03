@@ -13,5 +13,6 @@ git add --a
 git commit -m "enter the message here" |For addition of message or else it will open Linux command prompt.
 
 || There are the code for adding a file to git ||
+touch.gitignore
 
 
